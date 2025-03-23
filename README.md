@@ -19,6 +19,6 @@ For a bakery shop, the design elements need to be inviting, warm, and aligned wi
 
 # OUTPUT :
 
-![Image](https://github.com/user-attachments/assets/e88bc504-338d-4169-b08b-58b7397b9558)
+![Image](https://github.com/user-attachments/assets/490ea9b9-41a9-4ed9-a12a-730e4461e9f3)
 
 
